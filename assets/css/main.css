@@ -46,7 +46,6 @@ html, body, main {
 }
 
 .animated {
-  position: absolute;
   animation-name: slide;
   animation-duration: 2s;
 }
